@@ -161,5 +161,8 @@
          NB: To successfully test vendor and delivery boy without issues. Login with the with right Creditials. Eg. Don't
          use a delivery boy login details in a vendor app. Thanks
       </p>
+      <p>
+         Ypu can reach me via email at preciousoliver03@gmail.com and Whatsapp at +2348105387397 If interested in purchasing the source code.
+      </p>
    </body>
 </html>
