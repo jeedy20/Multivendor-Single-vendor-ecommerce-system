@@ -162,7 +162,7 @@
          use a delivery boy login details in a vendor app. Thanks
       </p>
       <p>
-         Ypu can reach me via email at preciousoliver03@gmail.com and Whatsapp at +2348105387397 If interested in purchasing the source code.
+      <h3>You can reach me via email at preciousoliver03@gmail.com and Whatsapp at +2348105387397 If interested in purchasing the source code.</h3>
       </p>
    </body>
 </html>
