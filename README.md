@@ -19,6 +19,9 @@
             Multiple payment system(Stripe, Paystack, Flutterwave and Cash on delivery).
          </li>
          <li>
+            Web apps can be converted to PWA.
+         </li>
+         <li>
             Multi language support(Spanish, English, Portuguese).
          </li>
          <li>
@@ -80,14 +83,32 @@
       </h2>
       <p>
          <a target="_blank"
-            href="https://drive.google.com/file/d/18RRB1_w7pR-VlBZIxNORdS28S0SZPcBu/view?usp=sharing"><img
+            href="https://drive.google.com/file/d/1OcdgSLl9tlNhq7xTXb1h0Liwco_YjPpA/view?usp=sharing"><img
             src="https://i.ibb.co/177Sr8g/1.jpg" alt="IMG-20210303-WA0008" border="0"></a>
       </p>
       <br>
-      <a target="_blank" href="https://drive.google.com/file/d/1eq3Jfq-W98OhhWC1ZhePooH1CvHVxdkN/view?usp=sharing"><img
+      <a target="_blank" href="https://drive.google.com/file/d/1o5eERMz32erQYSorXmVboATGxDrw497i/view?usp=sharing"><img
          src="https://i.ibb.co/3CZg3bH/2.jpg" alt="IMG-20210303-WA0008" border="0"></a>
       <p style="font-weight: bold">
          User name: vvendor666@gmail.com
+      </p>
+      <p style="font-weight: bold">
+         Password: 123456
+      </p>
+      <p style="font-weight: bold">
+         User name: julsworld@gmail.com
+      </p>
+      <p style="font-weight: bold">
+         Password: 123456
+      </p>
+      <p style="font-weight: bold">
+         User name: vendor999@gmail.com
+      </p>
+      <p style="font-weight: bold">
+         Password: 123456
+      </p>
+      <p style="font-weight: bold">
+         User name: vendor333@gmail.com
       </p>
       <p style="font-weight: bold">
          Password: 123456
@@ -96,7 +117,7 @@
       <br>
       <p>
          <a target="_blank"
-            href="https://drive.google.com/file/d/13q9ebbj4pSmMYgnTuilhqpc4LHriAeQv/view?usp=sharing"><img
+            href="https://drive.google.com/file/d/1yZzJ4daXkxFkROTaSh7puy705ABD27bk/view?usp=sharing"><img
             src="https://i.ibb.co/dj30QxX/3.jpg" alt="IMG-20210303-WA0005" border="0"></a>
       </p>
       <p style="font-weight: bold">
@@ -161,8 +182,13 @@
          NB: To successfully test vendor and delivery boy without issues. Login with the with right Creditials. Eg. Don't
          use a delivery boy login details in a vendor app. Thanks
       </p>
-      <p>
-      <h3>You can reach me via email at preciousoliver03@gmail.com and Whatsapp at +2348105387397 If interested in purchasing the source code.</h3>
-      </p>
+      <hr>
+      <h4>Change Log</h4>
+      <h2>23rd August, 2022</h2>
+      <ul>
+         <li>Country code feature added to signup page for User web app, User App, Rider App and Vendor App.</li>
+         <li>Web apps can be converted to PWA.</li>
+         <li>Modification of Market category page.</li>
+      </ul>
    </body>
 </html>
