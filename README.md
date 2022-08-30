@@ -236,5 +236,6 @@
          <li>Products page and flash sales page added to vendor app and web app.</li>
          <li>UI Modification.</li>
       </ul>
+      <h1>To purchase Source code email me at preciousoliver03@gmail.com</h1>
    </body>
 </html>
