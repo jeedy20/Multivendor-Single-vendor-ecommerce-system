@@ -174,7 +174,7 @@
       <br>
       <p>
          <a target="_blank"
-            href="https://drive.google.com/file/d/17fJpFyn2eWK_b8dvBKB-UVCeyTUS8_5-/view?usp=sharing"><img
+            href="https://drive.google.com/file/d/1U3wJ_V24LXHbq6Je_C405lrQ4ca7lLp_/view?usp=share_link"><img
             src="https://i.ibb.co/dj30QxX/3.jpg" alt="IMG-20210303-WA0005" border="0"></a>
       </p>
       <p style="font-weight: bold">
@@ -278,11 +278,13 @@
       <ul>
          <li>Admin App version now available.</li>
       </ul>
-      <h4>
-         For inquires and purchase email us @ preciousoliver03@gmail.com. 
-      </h4>
-      <h4>
-         Whatsapp @ +2348105387397
-      </h4>
+      <h2>1st November, 2022</h2>
+      <ul>
+         <li>Fixed user web app freezes.</li>
+      </ul>
+      <h2>8th Decemeber, 2022</h2>
+      <ul>
+         <li>Fixed parcel delivery database update error.</li>
+      </ul>
    </body>
 </html>
