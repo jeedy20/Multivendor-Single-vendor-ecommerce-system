@@ -222,5 +222,6 @@
          <li>Fixed Routing Issues.</li>
          <li>UI Modifications.</li>
       </ul>
+      <h1>Email me @ preciousoliver03@gmail.com</h1>
    </body>
 </html>
