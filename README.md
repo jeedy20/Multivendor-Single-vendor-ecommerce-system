@@ -227,6 +227,14 @@
          <li>Updated to the latest flutter version</li>
          <li>Fixed payment gate way errors</li>
       </ul>
+      <h2>Buy Me Coffee @$40 to have access to the code.</h2>
+      <p>
+         <a target="_blank" href="https://www.buymeacoffee.com/preciousolE">
+         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" border="0">
+         </a>
+      </p>
+      <p>
+      </p>
       <h1>Email me at preciousoliver03@gmail.com or Whatsapp me at +2348105387397</h1>
    </body>
 </html>
