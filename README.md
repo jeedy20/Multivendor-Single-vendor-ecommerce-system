@@ -96,9 +96,9 @@
       </p>
       <br>
       <br>
-      <a target="_blank" href="https://codecanyon.net/item/functional-multi-purpose-flutter-app-and-admin-grocery-ecommerce-foodpharmacy-etc/28178788">
+<!--       <a target="_blank" href="https://codecanyon.net/item/functional-multi-purpose-flutter-app-and-admin-grocery-ecommerce-foodpharmacy-etc/28178788">
       <img src="https://i.ibb.co/f2WxnfY/6.png" alt="6" border="0">
-      </a>
+      </a> -->
       < <br>
       <br>
       </p>
