@@ -35,20 +35,26 @@
       <h1>
          Overview
       </h1>
-      <iframe src="https://drive.google.com/file/d/1OaKaKchErEhYisoJpUpB5mZZmIcINhFa/preview" width="640" height="480"
-         allow="autoplay"></iframe>
-      <br>
-      <br>
-      <iframe src="https://drive.google.com/file/d/1G9pMNk2wri3_cuHmJzaatm56raRnkZYJ/preview" width="640" height="480"
-         allow="autoplay"></iframe>
-      <br>
-      <br>
-      <iframe src="https://drive.google.com/file/d/1WDknJF3oJEO5ooLR-RMwPpB4LlmuiQqz/preview" width="640" height="480"
-         allow="autoplay"></iframe>
-      <br>
-      <br>
-      <iframe src="https://drive.google.com/file/d/1TXINJHocktZ2Lp5I4ihjq0JwWJ41yJmL/preview" width="640" height="480"
-         allow="autoplay"></iframe>
+      <p>
+         <a target="_blank" href="https://drive.google.com/file/d/1OaKaKchErEhYisoJpUpB5mZZmIcINhFa/preview">
+         <img src="https://i.ibb.co/HX9rWtn/11.png" alt="3" border="0">
+         </a>
+      </p>
+      <p>
+         <a target="_blank" href="https://drive.google.com/file/d/1G9pMNk2wri3_cuHmJzaatm56raRnkZYJ/preview">
+         <img src="https://i.ibb.co/VjSYWLJ/12.png" alt="3" border="0">
+         </a>
+      </p>
+      <p>
+         <a target="_blank" href="https://drive.google.com/file/d/1WDknJF3oJEO5ooLR-RMwPpB4LlmuiQqz/preview">
+         <img src="https://i.ibb.co/RHvXm2M/13.png" alt="3" border="0">
+         </a>
+      </p>
+      <p>
+         <a target="_blank" href="https://drive.google.com/file/d/1TXINJHocktZ2Lp5I4ihjq0JwWJ41yJmL/preview">
+         <img src="https://i.ibb.co/ZTXdKHm/14.png" alt="3" border="0">
+         </a>
+      </p>
       <br>
       <br>
       <img src="https://i.ibb.co/QJsJgkS/Responsive-1.png" alt="Responsive-1" border="0">
