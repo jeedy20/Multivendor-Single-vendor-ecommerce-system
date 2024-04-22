@@ -1,8 +1,11 @@
 <html>
    <body>
       <h2>Multivendor/Single vendor ecommerce system.</h2>
-      <p> This is a complete single vendor ecommerce system for large and small scale business owners and can be purchased
-         for educational purposes.
+      <p> Introducing our cutting-edge multivendor/single vendor ecommerce solution, crafted with Flutter technology,
+         seamlessly
+         integrating web and mobile applications for a dynamic user experience. Our comprehensive system comprises a
+         user-friendly web app, a versatile mobile app, an intuitive admin panel, dedicated vendor app, and a
+         streamlined rider app, catering to every aspect of your ecommerce needs.
       <h2>App features</h2>
       <ul>
          <li> System contains a User app and web app,Vendor app, Rider app and Admin web app. </li>
@@ -14,6 +17,7 @@
          <li> Bulk push notifications. </li>
          <li>Return policy.</li>
          <li>Email verification.</li>
+         <li>Light & Dark Mode.</li>
          <li> Push notifications. </li>
          <li> Order tracking. </li>
          <li> Package delivery by a rider which could be enabled or disabled. </li>
@@ -31,22 +35,23 @@
       <h1>
          Overview
       </h1>
-      <img src="https://i.ibb.co/Z6fV42H/sample-03.png" alt="sample-03" border="0">
+      <iframe src="https://drive.google.com/file/d/1OaKaKchErEhYisoJpUpB5mZZmIcINhFa/preview" width="640" height="480"
+         allow="autoplay"></iframe>
       <br>
       <br>
-      <img src="https://i.ibb.co/SmCM0wD/sample2-02.png" alt="sample2-02" border="0">
+      <iframe src="https://drive.google.com/file/d/1G9pMNk2wri3_cuHmJzaatm56raRnkZYJ/preview" width="640" height="480"
+         allow="autoplay"></iframe>
       <br>
       <br>
-      <img src="https://i.ibb.co/qdrmF0g/sample-01.png" alt="sample-01" border="0">
+      <iframe src="https://drive.google.com/file/d/1WDknJF3oJEO5ooLR-RMwPpB4LlmuiQqz/preview" width="640" height="480"
+         allow="autoplay"></iframe>
       <br>
       <br>
-      <img src="https://i.ibb.co/yh6K0s4/sample-04.png" alt="sample-04" border="0">
+      <iframe src="https://drive.google.com/file/d/1TXINJHocktZ2Lp5I4ihjq0JwWJ41yJmL/preview" width="640" height="480"
+         allow="autoplay"></iframe>
       <br>
       <br>
-      <img src="https://i.ibb.co/cw1z4SN/sample-06.png" alt="sample-06" border="0">
-      <br>
-      <br>
-      <img src="https://i.ibb.co/rFbsncJ/sample-05.png" alt="sample-05" border="0">
+      <img src="https://i.ibb.co/QJsJgkS/Responsive-1.png" alt="Responsive-1" border="0">
       </p>
       <h2>Key Features.</h2>
       <ul>
@@ -87,14 +92,14 @@
       </ul>
       <h2> Demo Creditials. </h2>
       <p>
-         <a target="_blank" href="https://drive.google.com/file/d/14pU315GJJ3Wr9MYEwj5crU9gpkqDGrGN/view?usp=drive_link">
+         <a target="_blank" href="https://drive.google.com/file/d/1vXZIUY5h-xrcQJIbr8iyu-UqS4o7oF8G/view?usp=sharing">
          <img src="https://i.ibb.co/sHb7h0n/3.png" alt="3" border="0">
          </a>
       </p>
       <br>
       <br>
       <p>
-         <a target="_blank" href="https://drive.google.com/file/d/1PX_49iaLVZG6pbopptF4NZutTGr4iyOU/view?usp=drive_link">
+         <a target="_blank" href="https://drive.google.com/file/d/1rrrSAPLTfHf9Nqv4JCHjx8P3HBDG5luB/view?usp=sharing">
          <img src="https://i.ibb.co/NZvPVxk/5.png" alt="5" border="0">
          </a>
       </p>
@@ -103,7 +108,7 @@
       <br>
       <br>
       <p>
-         <a target="_blank" href="https://drive.google.com/file/d/1yISqE9ICQlOOYritBu4sShQq_vu4qssI/view?usp=drive_link">
+         <a target="_blank" href="https://drive.google.com/file/d/1DgCBoz-CA6x8bNKUiP8Fj6t5_QSZQ6_P/view?usp=sharing">
          <img src="https://i.ibb.co/M9kKYv7/4.png" alt="4" border="0">
          </a>
       </p>
@@ -112,7 +117,7 @@
       <br>
       <br>
       <p>
-         <a target="_blank" href="https://olivette-admin-stores.web.app/">
+         <a target="_blank" href="https://olivette-admin-stores-test.web.app/">
          <img src="https://i.ibb.co/WFhBnf6/1.png" alt="1" border="0">
          </a>
       </p>
@@ -121,16 +126,16 @@
       <br>
       <br>
       <p>
-         <a target="_blank" href="https://olivette-stores.web.app">
+         <a target="_blank" href="https://olivette-stores-test.web.app">
          <img src="https://i.ibb.co/3FdJ8KP/2.png" alt="2" border="0">
          </a>
       </p>
       <br>
       <br>
-      <a target="_blank"
-      href="https://codecanyon.net/item/functional-multi-purpose-flutter-app-and-admin-grocery-ecommerce-foodpharmacy-etc/28178788"
-      <img src="https://i.ibb.co/f2WxnfY/6.png" alt="6" border="0">
-      </a>
+      <!-- <a target="_blank"
+         href="https://codecanyon.net/item/functional-multi-purpose-flutter-app-and-admin-grocery-ecommerce-foodpharmacy-etc/28178788"
+         <img src="https://i.ibb.co/f2WxnfY/6.png" alt="6" border="0">
+         </a> -->
       <br>
       <br>
       </p>
@@ -144,13 +149,15 @@
       <p> Card number: 5531 8866 5214 2950. cvv: 564. Exp: 09/32. Pin: 3310. OTP: 12345 </p>
       <hr>
       <h4>Change Log</h4>
+      <h2>21th April, 2024</h2>
+      <ul>
+         <li>Updated to the latest flutter version</li>
+         <li>A Whole new system and UI change</li>
+      </ul>
       <h2>24th March, 2024</h2>
       <ul>
          <li>Updated to the latest flutter version</li>
          <li>A Whole new system and UI change</li>
       </ul>
-      <h1>
-         Email us at preciousoliver03@gmail.com or whatsapp us @
-      </h1>
    </body>
 </html>
