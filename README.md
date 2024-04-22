@@ -165,5 +165,8 @@
          <li>Updated to the latest flutter version</li>
          <li>A Whole new system and UI change</li>
       </ul>
+      <h1>
+         Email @ preciousoliver03@gmail.com if interested in the system
+      </h1>
    </body>
 </html>
