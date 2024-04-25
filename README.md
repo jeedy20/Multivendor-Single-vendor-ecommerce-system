@@ -36,7 +36,7 @@
          Overview
       </h1>
       <p>
-         <a target="_blank" href="https://drive.google.com/file/d/1LLG5bBI_4E7gax2nBDI4pq6sOHZJeJZ8/view?usp=sharing">
+         <a target="_blank" href="https://drive.google.com/file/d/1G9pMNk2wri3_cuHmJzaatm56raRnkZYJ/preview">
          <img src="https://i.ibb.co/HX9rWtn/11.png" alt="3" border="0">
          </a>
       </p>
